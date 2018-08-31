@@ -4,7 +4,7 @@ Exercícios de estrutura de dados 2
 
 ## Tipos de exercicíos
 
-Árvores..
+Árvores...
 
 ### Informações
 
